@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "name": "jiaxing",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity": "LWPolyline",
+        "Layer": "嘉兴市",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 192,
+        "Linetype": "Continuous",
+        "Elevation": 180.0,
+        "LineWt": 25,
+        "RefName": null,
+        "DocUpdate": "2019-12-31"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [120.74647525489668, 30.742856520910919, 180.0],
+              [120.746445576966977, 30.742541154350263, 180.0],
+              [120.745795671517641, 30.742578745212395, 180.0],
+              [120.745826342937434, 30.742894131008416, 180.0],
+              [120.74647525489668, 30.742856520910919, 180.0]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
